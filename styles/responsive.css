@@ -1,0 +1,49 @@
+@media only screen and (max-width: 600px) {
+    header {
+        z-index: 1;
+    }
+
+    .menu.container {
+        display: inline-block;
+    }
+
+    nav {
+        background-color: rgba(0, 0, 0, 0.93);
+        height: 100%;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        display: none;
+        position: fixed;
+    }
+
+    .header .menus li {
+        display: block;
+        text-align: center;
+    }
+
+    .header .menus button {
+        font-size: 24px;
+    }
+
+    .content {
+        top: 15%;
+    }
+
+    div.characters {
+        width: 100%;
+    }
+
+    div.card div.character {
+        width: unset;
+    }
+
+    div.home img.bottom {
+        width: 100%;
+        height: unset;
+        position: relative;
+        vertical-align: middle;
+    }
+}

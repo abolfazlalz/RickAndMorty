@@ -1,0 +1,366 @@
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'Characters'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Characters.js:1
+export const getCharacters = function (res) {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Characters.js:1
+export const getCharacters = function (res) {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Characters.js:1
+export const getCharacters = function (res) {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Characters.js:1
+export const getCharacters = function (res) {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:572:17)
+    at ServerResponse.write (_http_outgoing.js:567:10)
+    at Query.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Characters.js:13:17)
+    at Query.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/Connection.js:488:16)
+    at Query.Sequence.end (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/abolfa18/rickandmorty.abolfazlalz.ir/node_modules/mysql/lib/protocol/Parser.js:433:10)
+Emitted 'error' event at:
+    at writeAfterEndNT (_http_outgoing.js:634:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:5
+    let emitter = characters.characters.CharacterEmitter();
+                                        ^
+
+TypeError: Class constructor CharactersEmitter cannot be invoked without 'new'
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:5:41)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:5
+    let emitter = characters.characters.CharacterEmitter();
+                                        ^
+
+TypeError: Class constructor CharactersEmitter cannot be invoked without 'new'
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:5:41)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:13
+    var fullUrl = request.protocol + '://' + request.get('host') + request.originalUrl;
+                                                     ^
+
+TypeError: request.get is not a function
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:13:54)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:13
+    var fullUrl = request.protocol + '://' + request.get('host') + request.originalUrl;
+                                                     ^
+
+TypeError: request.get is not a function
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/app.js:13:54)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result['data']['result'] = data;
+          ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:11)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result['data']['result'] = data;
+          ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:11)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18
+    result.data.result = data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:18:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:14:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19
+    result.data.result = parameters.data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:15:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19
+    result.data.result = parameters.data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:15:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)
+/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19
+    result.data.result = parameters.data;
+           ^
+
+TypeError: Cannot read property 'data' of undefined
+    at EventEmitter.<anonymous> (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:19:12)
+    at EventEmitter.emit (events.js:198:13)
+    at Array.getData [as createApi] (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/Clasess/ApiControl.js:15:18)
+    at Server.http.createServer (/home/abolfa18/rickandmorty.abolfazlalz.ir/api/program.js:17:33)
+    at Server.emit (events.js:203:15)
+    at parserOnIncoming (_http_server.js:695:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:111:17)

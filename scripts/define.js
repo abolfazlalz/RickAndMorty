@@ -1,0 +1,1 @@
+const SITE_ADDRESS = "https://rickandmorty.abolfazlalz.ir/";

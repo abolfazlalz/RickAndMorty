@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/abolfa18/rickandmorty.abolfazlalz.ir/api"
+PassengerBaseURI "/api"
+PassengerNodejs "/home/abolfa18/nodevenv/rickandmorty.abolfazlalz.ir/api/10/bin/node"
+PassengerAppType node
+PassengerStartupFile app.js
+PassengerAppLogFile "/home/abolfa18/rickandmorty.abolfazlalz.ir/api/logs/passengar.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
