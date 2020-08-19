@@ -35,6 +35,10 @@ function fillCharactersList(id) {
             character.appendChild(name);
             character.appendChild(description);
 
+            card.onclick = function() {
+                showCharacter(item.name)
+            };
+
             list.appendChild(card);
         }
         closeLoading()

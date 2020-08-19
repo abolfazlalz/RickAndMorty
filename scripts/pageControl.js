@@ -1,39 +1,58 @@
 let pageTitle = 'Rick & Morty';
+window.onpopstate = history.onpushstate = function () {
+    onLoadingComplete(false)
+}
 
-function onLoadingComplete() {
+function onLoadingComplete(setPush = true) {
     let pathname = window.location.pathname;
     pathname = pathname.substring(1, pathname.length);
     let requests = pathname.split('/');
     if (requests.length > 0) {
         switch (requests[0].toLowerCase()) {
             case 'characters':
-                showCharactersList();
+                showCharactersList(setPush);
                 break;
             case 'home':
             case '':
-                showHome();
+                showHome(setPush);
+                break;
+            case 'character':
+                if (requests.length > 1)
+                    showCharacter(requests[1], setPush);
+                else
+                    show404(setPush);
                 break;
             default:
                 show404();
         }
     } else {
-        showHome()
+        showHome(setPush)
     }
 }
 
-function showHome() {
+function showHome(setPush) {
     showFile('/pages/home.html', '/', function () {
 
-    })
+    }, setPush)
 }
 
-function showCharactersList() {
+function showCharactersList(setPush) {
     showFile('/pages/characters.html', 'Characters', function () {
         fillCharactersList('characters');
-    });
+    }, setPush);
 }
 
-function showFile(address, title, complete) {
+function showCharacter(name, setPush) {
+    showFile('/pages/character.html', "character/" + name, function () {
+
+    }, setPush)
+}
+
+function show404(setPush) {
+
+}
+
+function showFile(address, title, complete, setPush = true) {
     if (typeof closeMenu() != 'undefined')
         closeMenu();
     const xhr = new XMLHttpRequest();
@@ -42,13 +61,11 @@ function showFile(address, title, complete) {
         if (this.readyState !== 4) return;
         if (this.status !== 200) return;
         document.getElementById('contents').innerHTML = this.responseText;
-        window.history.pushState({}, "address", title);
+        if (setPush)
+            window.history.pushState({}, "address", title);
+        document.title = title
         complete();
     };
 
     xhr.send();
-}
-
-function show404() {
-
 }
