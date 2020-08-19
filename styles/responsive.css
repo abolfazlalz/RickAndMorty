@@ -49,6 +49,7 @@
 
     div.loading img {
         width: 50%;
+        height: unset;
         left: calc(100% - 75%);
         position: fixed;
         top: calc(100% - 80%);

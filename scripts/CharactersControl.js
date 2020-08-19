@@ -37,6 +37,6 @@ function fillCharactersList(id) {
 
             list.appendChild(card);
         }
-        // closeLoading()
+        closeLoading()
     });
 }
