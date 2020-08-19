@@ -3,7 +3,10 @@
 }
 
 body {
-    background: black;
+    background-size: 500px;
+    background-repeat: repeat;
+    background-image: url(/img/space-pattern.jpg);
+    background-color: black;
 }
 
 .no-select {
@@ -44,18 +47,14 @@ header {
     left: 0;
     right: 0;
     top: 0;
-    background: rgb(0,203,84);
-    background: linear-gradient(172deg, rgba(0,203,84,1) 0%, rgba(0,0,0,1) 53%);
+    background: rgb(0, 203, 84);
+    background: linear-gradient(172deg, rgba(0, 203, 84, 1) 0%, rgba(0, 0, 0, 0) 53%);
 }
 
 .content {
     height: 85%;
     top: 25%;
     position: fixed;
-    background-color: black;
-    background-image: url("/img/space-pattern.jpg");
-    background-repeat: repeat;
-    background-size: 500px;
     width: 100%;
     left: 0;
     right: 0;
@@ -236,8 +235,8 @@ div.card div.character div.description {
 }
 
 .menu.change .bar1 {
-    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
-    transform: rotate(-45deg) translate(-9px, 6px) ;
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
 }
 
 .menu.change .bar2 {
@@ -245,8 +244,8 @@ div.card div.character div.description {
 }
 
 .menu.change .bar3 {
-    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
-    transform: rotate(45deg) translate(-8px, -8px) ;
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
 }
 
 nav.show {
