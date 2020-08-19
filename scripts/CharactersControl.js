@@ -6,9 +6,9 @@ function getCharacters(listener) {
 
 function fillCharactersList(id) {
     let list = document.getElementById(id);
+    showLoading()
     getCharacters(function (characters) {
         for (let item of characters) {
-            console.log(item.name);
             let card = document.createElement('div');
             card.classList.add('card');
 
@@ -37,5 +37,6 @@ function fillCharactersList(id) {
 
             list.appendChild(card);
         }
+        // closeLoading()
     });
 }

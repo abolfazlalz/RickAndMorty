@@ -45,6 +45,7 @@ function showFile(address, title, complete) {
         window.history.pushState({}, "address", title);
         complete();
     };
+
     xhr.send();
 }
 

@@ -29,7 +29,7 @@
     }
 
     .content {
-        top: 15%;
+        padding-top: 15%;
     }
 
     div.characters {
@@ -45,5 +45,12 @@
         height: unset;
         position: relative;
         vertical-align: middle;
+    }
+
+    div.loading img {
+        width: 50%;
+        left: calc(100% - 75%);
+        position: fixed;
+        top: calc(100% - 80%);
     }
 }
