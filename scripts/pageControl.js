@@ -1,4 +1,5 @@
 let pageTitle = 'Rick & Morty';
+
 window.onpopstate = history.onpushstate = function () {
     onLoadingComplete(false)
 }
@@ -17,8 +18,9 @@ function onLoadingComplete(setPush = true) {
                 showHome(setPush);
                 break;
             case 'character':
-                if (requests.length > 1)
-                    showCharacter(requests[1], setPush);
+                if (requests.length > 1) {
+                }
+                // showCharacter(requests[1], setPush);
                 else
                     show404(setPush);
                 break;
@@ -48,8 +50,9 @@ function showCharacter(name, setPush) {
     }, setPush)
 }
 
-function show404(setPush) {
-
+function show404(name, setPush) {
+    showFile('/pages/error-404.html', name, "Page not found", function () {
+    }, setPush)
 }
 
 function showFile(address, name, title, complete, setPush = true) {

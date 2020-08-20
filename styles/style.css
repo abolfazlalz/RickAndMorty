@@ -326,3 +326,66 @@ nav.show {
 .no-javascript span {
     font-family: cursive;
 }
+
+.error {
+    text-align: center;
+}
+
+.error .e404 .error-logo {
+    font-size: 50vw;
+    color: white;
+    font-family: fantasy;
+    display: inline-flex;
+}
+
+.error .e404 .error-logo span {
+    font-family: fantasy;
+}
+
+.error .e404 .error-logo span:nth-child(1) {
+    margin-right: -50px;
+}
+
+.error .e404 .error-logo span:nth-child(3) {
+    margin-left: -50px;
+}
+
+.error .e404 .error-logo img {
+    height: 50vw;
+    z-index: 1;
+}
+
+.error .e404 .error-text {
+    color: white;
+}
+
+.error .e404 .error-text span {
+    color: white;
+    font-family: monospace;
+    font-size: 8vw;
+}
+
+.error .e404 .error-text p {
+    font-size: 3vw;
+}
+
+.error .e404 button {
+    background-color: black;
+    border-style: solid;
+    color: white;
+    border-color: white;
+    padding: 5px 15px;
+    outline: none;
+    font-family: cursive;
+}
+
+.error .e404 button:hover {
+    color: black;
+    background-color: white;
+}
+
+.error .e404 button:active {
+    color: white;
+    background-color: #347137;
+}
+
