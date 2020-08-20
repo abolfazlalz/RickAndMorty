@@ -31,19 +31,19 @@ function onLoadingComplete(setPush = true) {
 }
 
 function showHome(setPush) {
-    showFile('/pages/home.html', '/', function () {
+    showFile('/pages/home.html', '/', pageTitle, function () {
 
     }, setPush)
 }
 
 function showCharactersList(setPush) {
-    showFile('/pages/characters.html', 'Characters', function () {
+    showFile('/pages/characters.html', '/characters', 'Characters', function () {
         fillCharactersList('characters');
     }, setPush);
 }
 
 function showCharacter(name, setPush) {
-    showFile('/pages/character.html', "character/" + name, function () {
+    showFile('/pages/character.html', "/character/" + name, name, function () {
 
     }, setPush)
 }
@@ -52,7 +52,7 @@ function show404(setPush) {
 
 }
 
-function showFile(address, title, complete, setPush = true) {
+function showFile(address, name, title, complete, setPush = true) {
     if (typeof closeMenu() != 'undefined')
         closeMenu();
     const xhr = new XMLHttpRequest();
@@ -62,7 +62,7 @@ function showFile(address, title, complete, setPush = true) {
         if (this.status !== 200) return;
         document.getElementById('contents').innerHTML = this.responseText;
         if (setPush)
-            window.history.pushState({}, "address", title);
+            window.history.pushState({}, "address", name);
         document.title = title
         complete();
     };
