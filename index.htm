@@ -12,8 +12,8 @@
     <script src="/scripts/scripts.js?v=1.2"></script>
     <script src="/scripts/loading.js?v=1.2"></script>
     <script src="/scripts/define.js?v=1.2"></script>
-    <script src="/scripts/CharactersControl.js?v=1.21"></script>
-    <script src="/scripts/pageControl.js?v=1.2"></script>
+    <script src="/scripts/CharactersControl.js?v=1.22"></script>
+    <script src="/scripts/pageControl.js?v=1.21"></script>
     <script>
         $(function () {
             $("#header").load("header.html");
@@ -23,6 +23,16 @@
 <body onload="onLoadingComplete()">
 <header class="header" id="header">
 </header>
+<noscript>
+    <div class="no-javascript">
+        <div class="header">
+            <img src="/img/rick-and-morty-1.png" alt="Rick And Morty: Enable Script">
+            <h1>Required Javascript</h1>
+        </div>
+        <hr/>
+        <span>Please enable javascript for this website, this website without javascript can not working</span>
+    </div>
+</noscript>
 <div id="loading"></div>
 <div class="content" id="contents"></div>
 <div class="footer">

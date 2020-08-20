@@ -54,4 +54,12 @@
         position: fixed;
         top: calc(100% - 80%);
     }
+
+    .no-javascript {
+        max-width: unset;
+    }
+
+    .no-javascript img {
+        width: 100%;
+    }
 }
